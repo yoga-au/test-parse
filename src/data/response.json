@@ -1,0 +1,14 @@
+{
+   "m2m:cin" : {
+      "rn" : "cin_EoXScD4RRSe4SFy5",
+      "ty" : 4,
+      "ri" : "/antares-cse/cin-EoXScD4RRSe4SFy5",
+      "pi" : "/antares-cse/cnt-sVzxDvAvSaCCnJe8",
+      "ct" : "20210315T153440",
+      "lt" : "20210315T153440",
+      "st" : 0,
+      "cnf" : "text/plain:0",
+      "cs" : 152,
+      "con" : {"pressure": 16, "histerisis" :80, "agitatorSpeed":80, "agitatorTime":3, "internalCirculationSpeed":3, "internalCirculation time":3, "speedHomogenizer":3}
+   }
+}
